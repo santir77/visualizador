@@ -24,7 +24,7 @@ let viewer;
 
 export function init(opts) {
   const {accessToken, container} = opts;
-  const imageId = '1376956613823456';
+  const imageId = '1376956613823456'; 
 
   const componentOptions = {
     cover: false,
