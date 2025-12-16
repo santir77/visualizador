@@ -22,10 +22,10 @@
     "viewer",
     "webgl"
   ],
-  "repository": "github:mapillary/mapillary-js",
-  "homepage": "https://mapillary.github.io/mapillary-js",
+  "repository": "github:santir77/visualizador",
+  "homepage": "https://santir77.github.io/visualizador",
   "bugs": {
-    "url": "https://github.com/mapillary/mapillary-js/issues"
+    "url": "https://github.com/santir77/visualizador/issues"
   },
   "browserslist": [
     "last 2 versions"
